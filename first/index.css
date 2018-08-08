@@ -1,0 +1,22 @@
+body {
+    
+    background-color:lightgrey;
+    
+    }
+    .Top{
+    width: 100%;
+    height: 15vh;
+    background-color: rgb(65, 63, 63);
+    }
+    .Mid{
+    width: 75vw;
+    height: 75vh;
+    background-color: rgb(229, 238, 238);
+    margin-left: 12vw
+    }
+    .Bottom{
+    height: 10vh;
+    width: 75vw;
+    margin-left: 12vw;
+    background-color: rgb(20, 20, 20);
+    }
